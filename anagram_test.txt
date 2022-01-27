@@ -1,0 +1,7 @@
+./anagram.sh,a a,true
+./anagram.sh,aa aa,true
+./anagram.sh,ab ba,true
+./anagram.sh,abc cba,true
+./anagram.sh,abcd bdac,true
+./anagram.sh,ab abcde,false
+./anagram.sh,abcd ecdb,false
