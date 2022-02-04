@@ -1,3 +1,3 @@
-./reverse_sentence.sh,\"the\" \"the\",true
-./reverse_sentence.sh,\"the cat\" \"cat the\",true
-./reverse_sentence.sh,\"the cat sat on the mat\" \"mat the on sat cat the\",true
+./reverse_sentence.sh,the,the
+./reverse_sentence.sh,the cat,cat the
+./reverse_sentence.sh,the cat sat on the mat,mat the on sat cat the

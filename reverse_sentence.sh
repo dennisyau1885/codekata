@@ -1,3 +1,3 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
-echo "$1" |xargs -n1 |tac |xargs
+echo "$@" |xargs -n1 |tac |xargs
